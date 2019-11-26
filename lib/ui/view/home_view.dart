@@ -25,7 +25,6 @@ class _HomeviewState extends State<Homeview> {
              title: "hello",
              subtitle: "$index",
              imageURL: "",
-             
            );
          },
        ),
